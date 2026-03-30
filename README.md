@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Shreshtha Kumar! 👋
 
-<!--
-**Shreshtha731/Shreshtha731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am a student developer passionate about solving problems through code and building efficient software. 
 
-Here are some ideas to get you started:
+### 🎓 About Me
+- **Branch:** Computer Science and Engineering
+- **Year:** 2025
+- **My Goal:** I am currently diving deeper into Python, Django, and Machine Learning, and I hope to learn how to architect scalable web applications and integrate AI into real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack & Interests
+- **Languages:** Python, C++
+- **Frameworks & Tools:** Django, Git, Windows Subsystem for Linux (WSL)
+- **Core Focus:** Web Development, Data Structures & Algorithms, Artificial Intelligence
+
+### 📫 Let's Connect
+- **Email:** kumarshreshtha731@gmail.com
+- **LinkedIn:** www.linkedin.com/in/shreshtha-kumar-040204210
