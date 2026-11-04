@@ -31,10 +31,6 @@ Welcome to my GitHub profile! I am a student developer passionate about solving 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreshtha731&theme=tokyo-night&area=true&hide_border=false&custom_title=Activity%20Graph" alt="Activity Graph" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shreshtha731&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Shreshtha731&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
 </p>
@@ -42,6 +38,9 @@ Welcome to my GitHub profile! I am a student developer passionate about solving 
 ---
 
 ### 🟩 3D Contribution Board
-<p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Isometric Contribution Grid" />
-</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
+  <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+</picture>
