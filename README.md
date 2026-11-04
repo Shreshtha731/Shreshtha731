@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I am a student developer passionate about solving 
 ### 🔭 About Me
 - 🎓 **Branch:** Computer Science and Engineering
 - 🎯 **Core Focus:** Web Development, Data Structures & Algorithms, Artificial Intelligence
-- 🚀 **Current Exploration:** Diving deeper into Python, Django, and Machine Learning to architect scalable web apps and integrate AI models into real-world projects.
+- 🚀 **Current Exploration:** Diving deeper into Python, Django, and Machine Learning to architect scalable web apps and integrate AI into real-world projects.
 
 ### 🌐 Connect with me:
 <p align="left">
@@ -27,21 +27,21 @@ Welcome to my GitHub profile! I am a student developer passionate about solving 
 ### 📊 GitHub Activity & Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreshtha731&theme=tokyonight&hide_border=false" alt="Streak Stats" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreshtha731&theme=tokyonight&hide_border=false" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreshtha731&theme=tokyo-night&area=true&hide_border=false" alt="Activity Graph" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreshtha731&theme=tokyo-night&area=true&hide_border=false" alt="Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreshtha731&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Shreshtha731&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shreshtha731&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Shreshtha731&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
 </p>
 
 ---
 
 ### 🟩 3D Contribution Board
 <p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Isometric Contribution Grid" width="100%" />
+  <img src="https://github.com/Shreshtha731/Shreshtha731/raw/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Isometric Contribution Grid" />
 </p>
