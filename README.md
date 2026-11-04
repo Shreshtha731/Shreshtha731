@@ -10,10 +10,10 @@ Welcome to my GitHub profile! I am a student developer passionate about solving 
 ### 🌐 Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/shreshtha-kumar-040204210" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:kumarshreshtha731@gmail.com">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I am a student developer passionate about solving 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreshtha731&theme=tokyo-night&area=true&hide_border=false" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreshtha731&theme=tokyo-night&area=true&hide_border=false&custom_title=Activity%20Graph" alt="Activity Graph" />
 </p>
 
 <p align="center">
@@ -43,5 +43,5 @@ Welcome to my GitHub profile! I am a student developer passionate about solving 
 
 ### 🟩 3D Contribution Board
 <p align="center">
-  <img src="https://github.com/Shreshtha731/Shreshtha731/raw/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Isometric Contribution Grid" />
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Isometric Contribution Grid" />
 </p>
